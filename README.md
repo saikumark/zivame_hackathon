@@ -104,16 +104,16 @@ user_cart
 MongoDB Statements:
 ==================
 
-use showzoo;
-db.createCollection("product");
-db.createCollection("category");
-db.createCollection("color");
-db.createCollection("size");
-db.createCollection("user");
-db.createCollection("user_shipping_address");
-db.createCollection("user_billing_address");
-db.createCollection("orders");
-db.createCollection("user_cart");
+use showzoo; <br />
+db.createCollection("product"); <br />
+db.createCollection("category");<br />
+db.createCollection("color");<br />
+db.createCollection("size");<br />
+db.createCollection("user");<br />
+db.createCollection("user_shipping_address");<br />
+db.createCollection("user_billing_address");<br />
+db.createCollection("orders");<br />
+db.createCollection("user_cart");<br />
 show collections;
 
 Mongodb Documents:
