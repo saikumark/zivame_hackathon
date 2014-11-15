@@ -1,5 +1,8 @@
 Zivame Hackathon
 ================
+Tech Stack
+----------
+HTML5, CSS3, jQuery, Node.JS, MongoDB, PhoneGap
 
 Node.JS Routers
 ================
