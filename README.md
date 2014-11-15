@@ -4,91 +4,91 @@ Zivame Hackathon
 Node.JS Routers
 ================
 
-getFeaturedProducts
-getProducts
-getProduct -> ProdId
-updateCart
-addUser
+getFeaturedProducts <br />
+getProducts<br />
+getProduct<br />
+updateCart<br />
+addUser<br />
 
 
 Mongodb Collections
 ===================
 
-category
-	catId
-	catName
-	catDescription
-	catImage
+category<br />
+	catId<br />
+	catName<br />
+	catDescription<br />
+	catImage<br />
 		
-product
-	prodId
-	catId
-	prodDescr
-	prodImage
-	prodColorId
-	prodSizeId
-	prodPrice
-	featured
+product<br />
+	prodId<br />
+	catId<br />
+	prodDescr<br />
+	prodImage<br />
+	prodColorId<br />
+	prodSizeId<br />
+	prodPrice<br />
+	featured<br />
 	
-color
-	colorId
-	colorName
+color<br />
+	colorId<br />
+	colorName<br />
 	
-size
-	sizeId
-	sizeDesc
+size<br />
+	sizeId<br />
+	sizeDesc<br />
 
-user
-	userId
-	userName
-	userPassword
-	userDob
+user<br />
+	userId<br />
+	userName<br />
+	userPassword<br />
+	userDob<br />
 	
-user_shipping_address
-	shippingAdrsId
-	userId
-	address1
-	address2
-	city
-	state
-	country
-	zipcode
-	phone
+user_shipping_address<br />
+	shippingAdrsId<br />
+	userId<br />
+	address1<br />
+	address2<br />
+	city<br />
+	state<br />
+	country<br />
+	zipcode<br />
+	phone<br />
 
-user_billing_address
-	billingAdrsId
-	userId
-	address1
-	address2
-	city
-	state
-	country
-	zipcode
-	phone
+user_billing_address<br />
+	billingAdrsId<br />
+	userId<br />
+	address1<br />
+	address2<br />
+	city<br />
+	state<br />
+	country<br />
+	zipcode<br />
+	phone<br />
 	
-orders
-	orderId
-	userId
-	prodId
-	orderAmount
-	discountAmount
-	totalAmount
-	createdOn
+orders<br />
+	orderId<br />
+	userId<br />
+	prodId<br />
+	orderAmount<br />
+	discountAmount<br />
+	totalAmount<br />
+	createdOn<br />
+	<br />
+order_item<br />
+	itemId<br />
+	orderId<br />
+	prodId<br />
+	qty<br />
+	colorId<br />
+	sizeId<br />
+	unitPrice<br />
 	
-order_item
-	itemId
-	orderId
-	prodId
-	qty
-	colorId
-	sizeId
-	unitPrice
-	
-user_cart
-	cartId
-	userId
-	data
-	updated
+user_cart<br />
+	cartId<br />
+	userId<br />
+	data<br />
+	updated<br />
 	
 	
 MongoDB Statements:
