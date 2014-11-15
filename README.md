@@ -4,96 +4,105 @@ Zivame Hackathon
 Node.JS Routers
 ================
 
-getFeaturedProducts <br />
-getProducts<br />
-getProduct<br />
-updateCart<br />
-addUser<br />
+getFeaturedProducts 
+getProducts
+getProduct
+updateCart
+addUser
 
 
 Mongodb Collections
 ===================
 
-category<br />
+category
 --------
-	catId<br />
-	catName<br />
-	catDescription<br />
-	catImage<br />
+	catId
+	catName
+	catDescription
+	catImage
 		
-product<br />
-	prodId<br />
-	catId<br />
-	prodDescr<br />
-	prodImage<br />
-	prodColorId<br />
-	prodSizeId<br />
-	prodPrice<br />
-	featured<br />
+product
+--------
+	prodId
+	catId
+	prodDescr
+	prodImage
+	prodColorId
+	prodSizeId
+	prodPrice
+	featured
 	
-color<br />
-	colorId<br />
-	colorName<br />
+color
+--------
+	colorId
+	colorName
 	
-size<br />
-	sizeId<br />
-	sizeDesc<br />
+size
+--------
+	sizeId
+	sizeDesc
 
-user<br />
-	userId<br />
-	userName<br />
-	userPassword<br />
-	userDob<br />
+user
+--------
+	userId
+	userName
+	userPassword
+	userDob
 	
-user_shipping_address<br />
-	shippingAdrsId<br />
-	userId<br />
-	address1<br />
-	address2<br />
-	city<br />
-	state<br />
-	country<br />
-	zipcode<br />
-	phone<br />
+user_shipping_address
+------------------------
+	shippingAdrsId
+	userId
+	address1
+	address2
+	city
+	state
+	country
+	zipcode
+	phone
 
-user_billing_address<br />
-	billingAdrsId<br />
-	userId<br />
-	address1<br />
-	address2<br />
-	city<br />
-	state<br />
-	country<br />
-	zipcode<br />
-	phone<br />
+user_billing_address
+------------------------
+	billingAdrsId
+	userId
+	address1
+	address2
+	city
+	state
+	country
+	zipcode
+	phone
 	
-orders<br />
-	orderId<br />
-	userId<br />
-	prodId<br />
-	orderAmount<br />
-	discountAmount<br />
-	totalAmount<br />
-	createdOn<br />
-	<br />
-order_item<br />
-	itemId<br />
-	orderId<br />
-	prodId<br />
-	qty<br />
-	colorId<br />
-	sizeId<br />
-	unitPrice<br />
+orders
+--------
+	orderId
+	userId
+	prodId
+	orderAmount
+	discountAmount
+	totalAmount
+	createdOn
 	
-user_cart<br />
-	cartId<br />
-	userId<br />
-	data<br />
-	updated<br />
+order_item
+--------
+	itemId
+	orderId
+	prodId
+	qty
+	colorId
+	sizeId
+	unitPrice
+	
+user_cart
+--------
+	cartId
+	userId
+	data
+	updated
 	
 	
 MongoDB Statements:
--------------------
+==================
 
 use showzoo;
 db.createCollection("product");
