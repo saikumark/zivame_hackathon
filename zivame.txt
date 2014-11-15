@@ -1,34 +1,4 @@
-DB/User: shoezoo
-Pass: $hoeZoo
-
-------
-
-Your database has been created and is ready for use.
-MONGO URI
-mongodb://<user>:<pass>@proximus.modulusmongo.net:27017/vaxYno2h
-
-MONGO CONSOLE
-mongo proximus.modulusmongo.net:27017/vaxYno2h -u <user> -p <pass>
-
-You can view stats, manage users, export your data, and other tasks through the Database Dashboard.
-
-
-==========================
-
-
-mongodb://nodejitsu:1afa48166792e57ad3c43e94929c8c10@troup.mongohq.com:10097/nodejitsudb1803456381
-Host
-troup.mongohq.com
-
-Username
-nodejitsu
-
-Password
-1afa48166792e57ad3c43e94929c8c10
-
-
-============
-
+Node.JS Routers:
 
 getProducts -> CatId
 getProduct -> ProdId
