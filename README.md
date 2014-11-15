@@ -2,16 +2,16 @@ Zivame Hackathon
 ================
 Tech Stack
 ----------
-HTML5, CSS3, jQuery, Node.JS, MongoDB, PhoneGap
+HTML5, CSS3, jQuery, Node.JS, MongoDB, PhoneGap <br />
 
 Node.JS Routers
 ================
 
-getFeaturedProducts 
-getProducts
-getProduct
-updateCart
-addUser
+getFeaturedProducts <br />
+getProducts <br />
+getProduct <br />
+updateCart <br />
+addUser <br />
 
 
 Mongodb Collections
