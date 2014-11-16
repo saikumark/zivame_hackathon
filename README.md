@@ -134,7 +134,7 @@ user_cart
 	updated
 	
 	
-MongoDB Queries:
+MongoDB Queries
 ================
 
 MongoDB Collections
@@ -151,8 +151,8 @@ MongoDB Collections
 	db.createCollection("user_cart");
 	show collections;
 
-Mongodb Documents:
-----------------
+Mongodb Documents
+-----------------
 
 	cats = [{"catId" : "1", "catName" : "Men", "catDescription" : "Men's Shoes",  "catImage" : "cat1.png"},{"catId" : "2", "catName" : "Women", "catDescription" : "Women's Shoes",  "catImage" : "cat2.png"},{"catId" : "3", "catName" : "Kid", "catDescription" : "Kid's Shoes",  "catImage" : "cat3.png"}]
 	colors = [{"colorId" : "1", "colorName": "White"},{"colorId" : "2", "colorName": "Gray"},{"colorId" : "3", "colorName": "Red"},{"colorId" : "4", "colorName": "Brown"}];
