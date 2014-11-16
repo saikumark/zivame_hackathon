@@ -1,11 +1,40 @@
-Zivame Hackathon
-================
+<h1>Zivame Hackathon</h1>
+
 Tech Stack
-----------
+================
 HTML5, CSS3, jQuery, Node.JS, MongoDB, PhoneGap <br />
 
-Node.JS Routers
+Authors
 ================
+Saikumar K (http://in.linkedin.com/in/saikumark)
+Vishwanath Kolkar (https://www.linkedin.com/profile/view?id=78942729)
+
+About Saikumar K
+------------------------------------------------
+Working in Yahoo (from HCL) for past 4.5 years. <br /> Worked and designed many projects in different domains (ecommerce, mortgage, CMS, inventory management, integrated Payment Gateways, SMS gateways, VOIP Asterix PBX.  <br />Looking for challenging opportunity in latest stack (Angular JS, Node.JS, HTML5, CSS3, MongoDB).
+
+<br /><br />
+
+About Vishwanath Kolkar
+----------------------
+Started carrer as fresher in HCL Technologies and deputed to client Yahoo and working for past 2 years. <br /> Worked in HTML5, CSS3, jQuery, YUI for Yahoo Messenger Project. <br /> Looking for challenging opportunities in frontend stack (Angular JS, HTML5, CSS3, jQuery Mobile, PhoneGap, ngCodava)
+
+Purpose
+================
+Purpose of this application is to develop a Mobile website for online shoe store.  Front-end application is developed using HTML5, CSS3, jQuery and backend logics developed using Node.JS and MongoDB.
+
+Components of Application
+================
+<li>Home page with featured products for all categories (Men, Women, Kid)</li>
+<li>Products List for specific Category</li>
+<li>Product detail page to display more information of specific product with 'Add to Cart' functionality</li>
+<li>Shopping cart with list of items selected</li>
+<li>Node.JS module which communicates with MongoDB to fetch and update data </li>
+
+Components of Application in Detail
+===================================
+Node.JS Routers
+----------------
 
 getFeaturedProducts <br />
 getProducts <br />
@@ -105,7 +134,7 @@ user_cart
 	
 	
 MongoDB Statements:
-==================
+----------------
 
 use showzoo; <br />
 db.createCollection("product"); <br />
@@ -120,7 +149,7 @@ db.createCollection("user_cart");<br />
 show collections;
 
 Mongodb Documents:
-==================
+----------------
 
 cats = [{"catId" : "1", "catName" : "Men", "catDescription" : "Men's Shoes",  "catImage" : "cat1.png"},{"catId" : "2", "catName" : "Women", "catDescription" : "Women's Shoes",  "catImage" : "cat2.png"},{"catId" : "3", "catName" : "Kid", "catDescription" : "Kid's Shoes",  "catImage" : "cat3.png"}]
 
