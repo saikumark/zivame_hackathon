@@ -27,11 +27,11 @@ Purpose of this application is to develop a Mobile website for online shoe store
 
 Components of Application
 ================
-	Home page with featured products for all categories (Men, Women, Kid)<br />
-	Products List for specific Category<br />
-	Product detail page to display more information of specific product with 'Add to Cart' functionality<br />
-	Shopping cart with list of items selected<br />
-	Node.JS module which communicates with MongoDB to fetch and update data<br />
+	Home page with featured products for all categories (Men, Women, Kid)
+	Products List for specific Category
+	Product detail page to display more information of specific product with 'Add to Cart' functionality
+	Shopping cart with list of items selected
+	Node.JS module which communicates with MongoDB to fetch and update data
 
 Components of Application in Detail
 ===================================
