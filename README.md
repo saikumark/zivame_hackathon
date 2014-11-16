@@ -15,8 +15,6 @@ About Saikumar K
 	Worked and designed many projects in different domains (ecommerce, mortgage, CMS, inventory management, integrated Payment Gateways, SMS gateways, VOIP Asterix PBX and different tech stack (PHP, MySQL, jQuery, YUI, HTML4/5, CSS2/3, Perl).  <br />
 	Interested in working with latest technologies such as Angular JS, Node.JS, HTML5, CSS3, MongoDB.
 
-<br /><br />
-
 About Vishwanath Kolkar
 ----------------------
 	Started carrer as fresher in HCL Technologies and deputed to client Yahoo and working for past 2 years. <br /> 
