@@ -11,13 +11,17 @@ Vishwanath Kolkar (https://www.linkedin.com/profile/view?id=78942729)
 
 About Saikumar K
 ------------------------------------------------
-Working in Yahoo (from HCL) for past 4.5 years. <br /> Worked and designed many projects in different domains (ecommerce, mortgage, CMS, inventory management, integrated Payment Gateways, SMS gateways, VOIP Asterix PBX and different tech stack (PHP, MySQL, jQuery, YUI, HTML4/5, CSS2/3, Perl).  <br />Interested in working with latest technologies such as Angular JS, Node.JS, HTML5, CSS3, MongoDB.
+	Working in Yahoo (from HCL) for past 4.5 years. <br /><br /> 
+	Worked and designed many projects in different domains (ecommerce, mortgage, CMS, inventory management, integrated Payment Gateways, SMS gateways, VOIP Asterix PBX and different tech stack (PHP, MySQL, jQuery, YUI, HTML4/5, CSS2/3, Perl).  <br />
+	Interested in working with latest technologies such as Angular JS, Node.JS, HTML5, CSS3, MongoDB.
 
 <br /><br />
 
 About Vishwanath Kolkar
 ----------------------
-Started carrer as fresher in HCL Technologies and deputed to client Yahoo and working for past 2 years. <br /> Worked in HTML5, CSS3, jQuery, YUI for Yahoo Messenger Project. <br /> Interested in working with latest technologies such as Angular JS, HTML5, CSS3, jQuery Mobile, PhoneGap, ngCodava.
+	Started carrer as fresher in HCL Technologies and deputed to client Yahoo and working for past 2 years. <br /> 
+	Worked in HTML5, CSS3, jQuery, YUI for Yahoo Messenger Project. <br /> 
+	Interested in working with latest technologies such as Angular JS, HTML5, CSS3, jQuery Mobile, PhoneGap, ngCodava.
 
 Purpose
 ================
@@ -25,11 +29,11 @@ Purpose of this application is to develop a Mobile website for online shoe store
 
 Components of Application
 ================
-<li>Home page with featured products for all categories (Men, Women, Kid)</li>
-<li>Products List for specific Category</li>
-<li>Product detail page to display more information of specific product with 'Add to Cart' functionality</li>
-<li>Shopping cart with list of items selected</li>
-<li>Node.JS module which communicates with MongoDB to fetch and update data </li>
+	Home page with featured products for all categories (Men, Women, Kid)<br />
+	Products List for specific Category<br />
+	Product detail page to display more information of specific product with 'Add to Cart' functionality<br />
+	Shopping cart with list of items selected<br />
+	Node.JS module which communicates with MongoDB to fetch and update data<br />
 
 Components of Application in Detail
 ===================================
