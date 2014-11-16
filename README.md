@@ -23,7 +23,7 @@ About Vishwanath Kolkar
 
 Purpose
 ================
-Purpose of this application is to develop a Mobile website for online shoe store.  Front-end application is developed using HTML5, CSS3, jQuery and backend logics developed using Node.JS and MongoDB.
+Purpose of this application is to develop a Mobile App for online shoe store using PhoneGap platform.  Front-end application is developed using HTML5, CSS3, jQuery and backend logics developed using Node.JS and MongoDB.
 
 Components of Application
 ================
