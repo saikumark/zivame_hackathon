@@ -6,18 +6,18 @@ HTML5, CSS3, jQuery, Node.JS, MongoDB, PhoneGap <br />
 
 Authors
 ================
-Saikumar K (http://in.linkedin.com/in/saikumark)
+Saikumar K (http://in.linkedin.com/in/saikumark) <br />
 Vishwanath Kolkar (https://www.linkedin.com/profile/view?id=78942729)
 
 About Saikumar K
 ------------------------------------------------
-Working in Yahoo (from HCL) for past 4.5 years. <br /> Worked and designed many projects in different domains (ecommerce, mortgage, CMS, inventory management, integrated Payment Gateways, SMS gateways, VOIP Asterix PBX.  <br />Looking for challenging opportunity in latest stack (Angular JS, Node.JS, HTML5, CSS3, MongoDB).
+Working in Yahoo (from HCL) for past 4.5 years. <br /> Worked and designed many projects in different domains (ecommerce, mortgage, CMS, inventory management, integrated Payment Gateways, SMS gateways, VOIP Asterix PBX and different tech stack (PHP, MySQL, jQuery, YUI, HTML4/5, CSS2/3, Perl).  <br />Interested in working with latest technologies such as Angular JS, Node.JS, HTML5, CSS3, MongoDB.
 
 <br /><br />
 
 About Vishwanath Kolkar
 ----------------------
-Started carrer as fresher in HCL Technologies and deputed to client Yahoo and working for past 2 years. <br /> Worked in HTML5, CSS3, jQuery, YUI for Yahoo Messenger Project. <br /> Looking for challenging opportunities in frontend stack (Angular JS, HTML5, CSS3, jQuery Mobile, PhoneGap, ngCodava)
+Started carrer as fresher in HCL Technologies and deputed to client Yahoo and working for past 2 years. <br /> Worked in HTML5, CSS3, jQuery, YUI for Yahoo Messenger Project. <br /> Interested in working with latest technologies such as Angular JS, HTML5, CSS3, jQuery Mobile, PhoneGap, ngCodava.
 
 Purpose
 ================
